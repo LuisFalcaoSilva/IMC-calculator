@@ -93,7 +93,7 @@ FIM
 ```
 ### Diagrama de funcionamento
 
-![Arquitetura do código](fluxogramacodigo.png)
+![Arquitetura do código](Desafio043/fluxogramacodigo.png)
 
 ```text
 1. Importações
@@ -350,7 +350,7 @@ Permite múltiplas classificações seguidas
 
 ### Diagrama de funcionamento
 
-   ![Arquitetura do código](fluxogramacodigofront.png)
+   ![Arquitetura do código](Desafio043/fluxogramacodigofront.png)
    
 ```text
 1. Importações
